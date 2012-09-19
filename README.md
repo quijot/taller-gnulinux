@@ -2,7 +2,7 @@
 
 ## De paquetes, gestores y repositores
 
-Todo lo que queramos hacer en GNU/Linux tiene una gran (des)ventaja: hay entre álef<sub>0</sub> y álef<sub>1</sub> opciones (álef=&#1488;), es decir: hay libertad, lo que nos obliga a informarnos, a estudiar las opciones para saber cuál se ajusta mejor a nuestra necesidad.
+Para todo lo que queramos hacer en GNU/Linux hay una gran (des)ventaja: hay entre álef<sub>0</sub> y álef<sub>1</sub> opciones (álef=&#1488;) para hacer lo mismo. Es decir: hay libertad, lo que nos obliga a informarnos, a estudiar las opciones para saber cuál se ajusta mejor a nuestra necesidad.
 
 El __instalar programas__ no es la excepción. En GNU/Linux tenemos varios caminos. Sin embargo, se podría decir que lo más recomendable es utilizar el __gestor de paquetes__ e instalar los __paquetes de software__ de los __repositorios__ oficiales de nuestra distribución... ¡'perá 'perá! ¡No te vayas!
 
