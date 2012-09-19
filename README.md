@@ -43,15 +43,6 @@ Ahora instalemos desde consola programas copados para la consola.
     # Debian, Ubuntu (con sudo)
     $ apt-get install tree, mp3blaster, ranger, lynx
 
-    # Mandriva, Mageia
-    $ urpmi tree, mp3blaster, ranger, lynx
-
-    # RedHat, Fedora
-    $ yum install tree, mp3blaster, ranger, lynx
-
-    # SuSE
-    $ yast?
-
 etc...
 
 ## ToDo
@@ -59,5 +50,7 @@ etc...
 - instalar un programa que no está en el repo
     - está el paquete en otro lado
     - no está el paquete -> compilar
-- qué es autopackage?
 - hablar de quién y cómo hacen/mantienen los paquetes
+- Explicar un poco el tema de los paquetes y las interdependencias. Para ello explicar un poco el concepto de programa y librería.
+- Explicar que el manejador de paquetes te resuelve las dependencias.
+- Buscar y proponer ejercicios. Sería bueno que en los ejercicios se VIVA la diferencia entre tener que resolver las dependencias uno mismo y usar el apt-get y a la bosta.
